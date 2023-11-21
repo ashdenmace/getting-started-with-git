@@ -1,1 +1,1 @@
-reading me
+getin started wit git 
